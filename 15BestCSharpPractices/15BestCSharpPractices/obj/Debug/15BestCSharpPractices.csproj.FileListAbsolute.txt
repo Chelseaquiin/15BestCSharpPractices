@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\bin\Debug\15BestCSharpPractices.exe.config
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\bin\Debug\15BestCSharpPractices.exe
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\bin\Debug\15BestCSharpPractices.pdb
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\obj\Debug\15BestCSharpPractices.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\obj\Debug\15BestCSharpPractices.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\obj\Debug\15BestCSharpPractices.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\obj\Debug\15BestCSharpPractices.exe
+C:\Users\user\source\repos\15BestCSharpPractices\15BestCSharpPractices\obj\Debug\15BestCSharpPractices.pdb
